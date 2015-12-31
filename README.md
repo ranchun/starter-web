@@ -25,3 +25,6 @@ More steps to follow
 
 ## Deployment
 
+Now change in local:MB, after stashing away change in simple.html
+
+
