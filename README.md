@@ -8,6 +8,7 @@ This repository is for showing how Git and GitHub work
 
 ## Purpose
 
+Changed in master branch, for rebase example
 
 ## Introduction
 
